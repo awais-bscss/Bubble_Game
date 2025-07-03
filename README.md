@@ -1,7 +1,4 @@
 # Bubble Shooter Game
-
-![Game Screenshot](screenshot.png) _[Note: Add actual screenshot later]_
-
 A simple yet engaging bubble shooter game built with HTML, CSS, and JavaScript.
 
 ## How to Play
